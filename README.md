@@ -3,5 +3,3 @@
 </p>
 
 # Hi 👋, I'm Pratyksh Somani
-
-
