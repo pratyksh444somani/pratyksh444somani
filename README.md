@@ -4,4 +4,4 @@
 
 # Hi 👋, I'm Pratyksh Somani
 
-### Flutter • Android Studio • Java • Python
+
